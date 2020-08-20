@@ -14,7 +14,8 @@ Application for checking ping and packet loss before starting the game.
 
 
 Screenshot of the program
-https://github.com/Werwo1f/Dota-2-Server-Ping-Check/blob/master/1467381782_preview_chek%20ping.png
+![alt text](https://github.com/Werwo1f/Dota-2-Server-Ping-Check/blob/master/1467381782_preview_chek%20ping.png "")​
+
 
 Support and update here:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1467381782
