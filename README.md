@@ -12,9 +12,7 @@ Application for checking ping and packet loss before starting the game.
 
 6. Detailed information about how to use the program is included in the program. Download it to open the binary folder. There you will find the compiled executable file.
 
-
-Screenshot of the program
-![alt text](https://github.com/Werwo1f/Dota-2-Server-Ping-Check/blob/master/1467381782_preview_chek%20ping.png "")​
+![alt text](https://github.com/Werwo1f/Dota-2-Server-Ping-Check/blob/master/1467381782_preview_chek%20ping.png "Screenshot of the program")​
 
 
 Support and update here:
